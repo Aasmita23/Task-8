@@ -1,4 +1,5 @@
 ## Summary
+![image](https://github.com/Aasmita23/Task-8/blob/main/dashboard/Screenshot%202025-05-23%20165050.png)
 
 
 ### Overall KPIs:
@@ -21,6 +22,7 @@
 - Technology leads in sales: 836.15K.
 - Furniture: 742K.
 - Office Supplies: 719.05K.
+
 All three categories contribute significantly, with Technology slightly ahead.
 
 ### Profit by Region (Pie Chart):
